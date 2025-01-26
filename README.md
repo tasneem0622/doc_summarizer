@@ -56,5 +56,5 @@ Potential Use Cases:
    Research papers, legal documents, and report summaries.
    Streamlining text analysis for quick insights.
    Simplifying workflows that involve reviewing long documents.
-This tool is ideal for users seeking efficient and AI-powered summarization with a clean and easy-to-use interface.
+This tool is perfect for users looking for efficient, AI-powered summarisation with a clean and user-friendly interface.
 
