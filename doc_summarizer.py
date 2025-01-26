@@ -7,7 +7,7 @@ from langchain.chains.summarize import load_summarize_chain
 
 import PyPDF2
 from langchain.chains.combine_documents import create_stuff_documents_chain
-API_key="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"
+API_key="******"#put your api key
 
 class unsupported_document_type(Exception):
     """Raised when an for unsupported document type is given as input."""
