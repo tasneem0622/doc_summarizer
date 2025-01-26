@@ -1,5 +1,4 @@
 import streamlit as st
-from langchain.document_loaders  import PyPDFLoader,Docx2txtLoader
 from doc_summarizer import doc_summarizer
 import PyPDF2
 
